@@ -1,163 +1,157 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Prabhsimran Singh",
+    "occupation": "Open Source Consultant",
+    "description": "currently employed by Savoir-faire Linux, Montreal, where I work as a Java Backend Developer along with wide array of technologies.",
+    "image": "profilepic.jpg",
+    "bio": "I will describe myself as a Learner with an immense passion to create out of the box applications. As a Developer at Savoir-faire Linux, I have gained a lot of experience in every aspect of SDLC process. I have been learning and doing everything from client interactions to deployments in a complete Agile way. With my experience here, I also had to chance to work with AWS services particularly S3, Lambda, API Gateway, Cognito, IAM. As a Consultant, you have to be dynamic, ready to face any challenge, learn any technology while enjoying everything in this process. I am looking myself as a Full Stack Cloud engineer with my favorite stack as Spring Boot, ReactJs and AWS Cloud Services.",
+    "contactmessage": "",
+    "email": "Prabhsimran.06@gmail.com",
+    "phone": "514-583-4471",
+    "address": {
+      "street": "1650, De Maisonneuve Ouest,",
+      "city": "Montreal",
+      "state": "Quebec",
+      "zip": "H3H 2P3"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "http://googleplus.com/tbakerx",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Concordia University, Montreal",
+        "degree": "Masters in Software Engineering",
+        "graduated": "January 2017 - December 2018",
+        "description": "Studying at Concordia was the best part of my education as it was here, where I achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. Pursuing master's paved the way for new beginnings. The most important thing that I developed in myself is to let go of the fear of programming as I had come from Electronics Background. I got to work with Java, Python, Clojure, Erlang, Databases, UML, SRS, Parallel Programming in Java and found that I have a knack for understanding complex algorithms.."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Guru Nanak Dev University, India",
+        "degree": "Bachelors in Electronics and Communications Engineering",
+        "graduated": "July 2012 - May 2016",
+        "description": "I started my degree in Electronics and Communication Engineering back in India where I gained handful of knowledge in Microcontrollers, Integrated Circuits, Communication and Fiber Optics. I also got my first experience with Information Technology by doing Programming concepts in C and Software Processes. Fortunately, I was placed in TCS in the beginning of my final year. And I decided to grow more in this field so I got a Junior Java Developer Internship in my Last Semester. This was the beginning of my Journey towards Software Engineering and I decided to pursue Masters in this field. "
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Savoir-faire Linux",
+        "title": "Open Source Consultant",
+        "years": "April 2019 - Present",
+        "description": "I started working here building an Intranet Solution for one of our Clients on Liferay which is a Java based CMS. Here I have had the chance to get my hands dirty with all parts of our software solution. I have worked mainly with Java, JQuery, JavaScript, Git, Maven and Linux OS. Heavily used ​ Microsoft Graph API​ to implement and integrate ​ O365​ features into the Intranet. Authenticated and authorized seamless integration of users from Microsoft ​ Azure​ Active Directory into Liferay. Also, I used to deploy application in CI/CD environment using Git, GitLab, and Jenkins Pipeline and communicated with clients, co-workers about current tasks and followed procedures and mechanisms to ensure compliance to technical designs and best practices. Currently, I am working on Company's own website which is built on top of Python's Django Framework. I move forward to take this immense experience gained to build useful applications in future."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Java",
+        "level": "80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "65%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Git",
+        "level": "75%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Spring Boot",
+        "level": "70%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "AWS S3",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "AWS API Gateway",
+        "level": "50%"
+      },
+      {
+        "name": "AWS Lambda",
+        "level": "50%"
+      },
+      {
+        "name": "Maven",
+        "level": "60%"
+      },
+      {
+        "name": "Docker",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Virtual Wallet",
+        "category": "A Rest-API based service for managing transactions.",
+        "image": "virtual.jpg",
+        "url": "https://github.com/prabhsimran95/virtual-wallet"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Todo Application",
+        "category": "A todo management web app built on top of React and Spring boot",
+        "image": "todo.png",
+        "url": "https://github.com/prabhsimran95/To-do-Application"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "prabh.png",
+        "url": "http://www.timbakerdev.com"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
