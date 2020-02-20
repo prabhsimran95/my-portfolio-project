@@ -147,7 +147,7 @@ class Contact extends Component {
             </form>
 
             <div>
-              {!this.state.sent && (
+              {this.state.sent && (
                 <div className="feedbackmessage">
                   <i className="fa fa-check"></i> Your message was sent, Thank
                   you!
