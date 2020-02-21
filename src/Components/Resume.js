@@ -77,7 +77,7 @@ class Resume extends Component {
               <ul className="skills">{skills}</ul>
             </div>*/}
             <div className="rowTech">
-              <ScrollAnimation animateIn="fadeIn" duration="2">
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img src="../../images/React-logo.jpg" alt="Forest" />
                 </div>
@@ -93,7 +93,7 @@ class Resume extends Component {
               </ScrollAnimation>
             </div>
             <div className="row">
-              <ScrollAnimation animateIn="fadeIn" duration="2">
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img src="../../images/JS.png" alt="" />
                 </div>
