@@ -79,32 +79,60 @@ class Resume extends Component {
             <div className="rowTech">
               <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
-                  <img src="../../images/React-logo.jpg" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/React-logo.jpg"
+                    alt="Forest"
+                  />
                 </div>
                 <div className="column">
-                  <img src="../../images/java.png" alt="Snow" />
+                  <img
+                    className="images"
+                    src="../../images/java.png"
+                    alt="Snow"
+                  />
                 </div>
                 <div className="column">
-                  <img src="../../images/spring-framework.png" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/spring-framework.png"
+                    alt="Forest"
+                  />
                 </div>
                 <div className="column">
-                  <img src="../../images/aws.png" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/aws.png"
+                    alt="Forest"
+                  />
                 </div>
               </ScrollAnimation>
             </div>
             <div className="row">
               <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
-                  <img src="../../images/JS.png" alt="" />
+                  <img className="images" src="../../images/JS.png" alt="" />
                 </div>
                 <div className="column">
-                  <img src="../../images/docker.jpg" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/docker.jpg"
+                    alt="Forest"
+                  />
                 </div>
                 <div className="column">
-                  <img src="../../images/rest.png" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/rest.png"
+                    alt="Forest"
+                  />
                 </div>
                 <div className="column">
-                  <img src="../../images/Git.jpg" alt="Forest" />
+                  <img
+                    className="images"
+                    src="../../images/Git.jpg"
+                    alt="Forest"
+                  />
                 </div>
               </ScrollAnimation>
             </div>
