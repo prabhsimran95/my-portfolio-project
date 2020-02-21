@@ -85,6 +85,8 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -92,6 +94,8 @@ class Resume extends Component {
                     alt="Snow"
                   />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -99,6 +103,8 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -113,6 +119,8 @@ class Resume extends Component {
                 <div className="column">
                   <img className="images" src="../../images/JS.png" alt="" />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -120,6 +128,8 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -127,6 +137,8 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
+              </ScrollAnimation>
+              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
