@@ -72,12 +72,8 @@ class Resume extends Component {
           </div>
 
           <div className="bars">
-            {/*<p>{skillmessage}</p>
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
-            </div>*/}
-            <div className="rowTech">
-              <ScrollAnimation animateIn="zoomIn" duration="1">
+            <ScrollAnimation animateIn="zoomIn" duration="2">
+              <div className="rowTech">
                 <div className="column">
                   <img
                     className="images"
@@ -85,8 +81,6 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -94,8 +88,6 @@ class Resume extends Component {
                     alt="Snow"
                   />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -103,8 +95,6 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -112,15 +102,11 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-            </div>
-            <div className="row">
-              <ScrollAnimation animateIn="zoomIn" duration="1">
+              </div>
+              <div className="rowTech">
                 <div className="column">
                   <img className="images" src="../../images/JS.png" alt="" />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -128,8 +114,6 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -137,8 +121,6 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-              <ScrollAnimation animateIn="zoomIn" duration="1">
                 <div className="column">
                   <img
                     className="images"
@@ -146,8 +128,8 @@ class Resume extends Component {
                     alt="Forest"
                   />
                 </div>
-              </ScrollAnimation>
-            </div>
+              </div>
+            </ScrollAnimation>
           </div>
         </div>
       </section>
