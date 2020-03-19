@@ -19,7 +19,7 @@ class Contact extends Component {
     this.setState({
       [event.target.name]: event.target.value
     });
-    console.log(this.state.name + this.state.email + this.state.message);
+    console.log(this.state.name + this.state.email + this.state.message + "");
   }
 
   sendEmail(event) {
