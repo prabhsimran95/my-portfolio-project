@@ -5,6 +5,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 class Header extends Component {
   render() {
     if (this.props.data) {
+      console.log("hi");
       var name = this.props.data.name;
       var occupation = this.props.data.occupation;
       var description = this.props.data.description;
@@ -72,7 +73,7 @@ class Header extends Component {
               I'm an <span>{occupation}</span> {description}.
             </h3>
             <hr />
-            <ul className="social">{networks}</ul>
+            {/* <ul className="social">{networks}</ul> */}
           </div>
         </div>
 
