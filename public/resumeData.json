@@ -75,7 +75,7 @@
         "company": "Savoir-faire Linux",
         "title": "Open Source Consultant",
         "years": "April 2019 - Present",
-        "description": "I started working here building an Intranet Solution for one of our Clients on Liferay which is a Java based CMS. Here I have had the chance to get my hands dirty with all parts of our software solution. I have worked mainly with Java, JQuery, JavaScript, Git, Maven and Linux OS. Heavily used ​ Microsoft Graph API​ to implement and integrate ​ O365​ features into the Intranet. Authenticated and authorized seamless integration of users from Microsoft ​ Azure​ Active Directory into Liferay. Also, I used to deploy application in CI/CD environment using Git, GitLab, and Jenkins Pipeline and communicated with clients, co-workers about current tasks and followed procedures and mechanisms to ensure compliance to technical designs and best practices. Currently, I am working on Company's own website which is built on top of Python's Django Framework. I move forward to take this immense experience gained to build useful applications in future."
+        "description": "I started working here building an Intranet Solution for one of our Clients on Liferay which is a Java based CMS. Here I have had the chance to get my hands dirty with all parts of our software solution. I have worked mainly with Java, JQuery, JavaScript, Git, Maven and Linux OS. Heavily used ​ Microsoft Graph API​ to implement and integrate ​ O365​ features into the Intranet. Authenticated and authorized seamless integration of users from Microsoft ​ Azure​ Active Directory into Liferay. Also, I used to deploy application in CI/CD environment using Git, GitLab, and Jenkins Pipeline and communicated with clients, co-workers about current tasks and followed procedures and mechanisms to ensure compliance to technical designs and best practices. I also worked on my company's corporate website which is built on top of Python's Django Framework. Recenlty, I have also gained experience with ELK stack which is highly optimized SQL database and I did a thorough POC on implementing it within the company. I move forward to take this immense experience gained to build useful applications in future."
       }
     ],
     "skills": [
@@ -147,7 +147,7 @@
     "testimonials": [
       {
         "text": "Prabh is a very talented individual. I met him at the university and I can say he is very dedicated and passionate about the things he do. The way he has took initiatives and managed various projects showed his great team-work skills. I am sure he will be a valuable asset for any organisation.",
-        "user": "Mohit Dhiman"
+        "user": "Mohit Dhiman, M.Eng Software Engineering, Concordia University"
       }
     ]
   }
